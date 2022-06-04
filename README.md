@@ -1,14 +1,6 @@
 ### Hi there 👋
 
-![image](https://user-images.githubusercontent.com/48235884/171985612-21c38f95-4a66-436e-b128-f9f07ab6f4f7.png)
-<p dir="auto">
-![image](https://user-images.githubusercontent.com/48235884/171985669-fb3b4605-a898-4fe6-a42a-c031be9b3d4b.png)
-![image](https://user-images.githubusercontent.com/48235884/171985674-98dea01d-8409-446a-96fd-0a669e1268ea.png)
-![image](https://user-images.githubusercontent.com/48235884/171985679-4416914b-1ebb-49b4-b7e0-47f6f14d64e5.png)
-![image](https://user-images.githubusercontent.com/48235884/171985753-33ac4695-bae0-4e15-b015-dd79fcbd52ea.png)
-![image](https://user-images.githubusercontent.com/48235884/171985757-676c517b-3aef-426c-96e2-4b777db75d14.png)
 
-</p>
 
 <!--
 **cpk0709/cpk0709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
