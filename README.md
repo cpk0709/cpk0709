@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](https://user-images.githubusercontent.com/48235884/171984051-2088aab6-7d47-40d0-94fe-1d0d8ca57960.png)
+
 <!--
 **cpk0709/cpk0709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
